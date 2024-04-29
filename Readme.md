@@ -15,19 +15,19 @@ This is a Node.js API for managing hall bookings.
 [View room by ID](https://hall-booking-api-je7f.onrender.com/1)
 
 ### Create a New Room
-- **POST** `/rooms`
+- **POST** `/room`
 
-[Create a new room](#)
+[Create a new room](#https://hall-booking-api-je7f.onrender.com/room)
 
 ### Update Room by ID
 - **PUT** `/rooms/:id`
 
-[Update room by ID](#)
+[Update room by ID](#https://hall-booking-api-je7f.onrender.com/1)
 
 ### Delete Room by ID
 - **DELETE** `/rooms/:id`
 
-[Delete room by ID](#)
+[Delete room by ID](#https://hall-booking-api-je7f.onrender.com/1)
 
 
 (day 38)
